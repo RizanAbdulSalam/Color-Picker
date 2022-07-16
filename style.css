@@ -4,7 +4,7 @@ body {
 }
 
 .colorInfo {
-    padding: 1px;
+    padding: 10px;
     margin: 80px;
     display: flex;
     flex-direction: column;
